@@ -2,10 +2,11 @@
 
 ## Running the Tests
 From the command line, type the following to run the tests:
-```nosetests```
+    ```nosetests```
 
 You may need to ```pip install``` in your virtual environment:
-    * ```nose```
-    * ```sure```
-    * ```mock```
-    * ```six```
+
+* ```nose```
+* ```sure```
+* ```mock```
+* ```six```
